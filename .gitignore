@@ -1,8 +1,5 @@
-# IDE
-.vscode/
-
-# OS
+.lcpr_data
+.vscode
+.idea
 .DS_Store
 
-# Plugins config
-.lcpr_data/
